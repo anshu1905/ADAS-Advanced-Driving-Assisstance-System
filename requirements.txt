@@ -1,0 +1,7 @@
+numpy
+tensorflow
+pygame
+python-opencv
+dlib
+imutils
+face_recognition
